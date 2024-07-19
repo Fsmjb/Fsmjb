@@ -16,7 +16,7 @@ I am open to collaborating on:
 ## 📫 How to Reach Me
 - **Email**: [your-email@example.com](fsmjn12345@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-junaid-2038a72a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter**: [}
+- **Twitter**: []
 
 ## 😄 Pronouns
 - He/Him
