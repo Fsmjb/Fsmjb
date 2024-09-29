@@ -4,9 +4,8 @@
 I am a passionate computer science student diving deep into the world of programming. Currently, my focus is on mastering **C++** and **Python**, but my curiosity extends to all realms of technology.
 
 ## 🌱 What I'm Learning
-- **C++**: Exploring object-oriented programming, and more.
+- **C++**: Exploring object-oriented programming and advanced concepts.
 - **Python**: Delving into web development with Django.
-
 
 ## 💞️ Collaboration Interests
 I am open to collaborating on:
@@ -15,9 +14,8 @@ I am open to collaborating on:
 - **Hackathons and Competitions**: Participating in coding challenges and hackathons to test and improve my skills.
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](fsmjn12345@gmail.com)
+- **Email**: [fsmjn12345@gmail.com](mailto:fsmjn12345@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-junaid-2038a72a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 
 ## 😄 Pronouns
 - He/Him
@@ -25,11 +23,9 @@ I am open to collaborating on:
 ## ⚡ Fun Fact
 I love solving complex problems and often spend my free time exploring new algorithms or diving into the latest tech trends. When I'm not coding, you can find me playing games or having some fun.
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fsmjb&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+## 🛠️ Languages and Tools
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsmjb&layout=compact&theme=radical)
 
-
-
-<!---
-Fsmjb/Fsmjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
