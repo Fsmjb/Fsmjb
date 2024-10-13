@@ -29,6 +29,5 @@ When I'm not lost in code, you'll find me solving intricate puzzles or exploring
 ## 🛠️ Languages and Tools
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsmjb&layout=compact&theme=radical)
 
----
 
-Thanks for stopping by my profile! Let’s create something amazing together!
+
