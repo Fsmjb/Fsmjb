@@ -30,4 +30,8 @@ When I'm not lost in code, you'll find me solving intricate puzzles or exploring
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsmjb&layout=compact&theme=radical)
 
 
+<h2>CERTIFICATE</h2>
+
+<h3>Responsive Web Developer</h3>
+<img src="https://github.com/Fsmjb/Fsmjb/blob/main/Certificate_1" >
 
