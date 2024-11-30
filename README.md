@@ -6,6 +6,9 @@ I'm a passionate computer science student on an exciting journey through the vas
 ## 🌱 What I'm Learning
 - **C++**: Mastering the art of object-oriented programming and unleashing the power of advanced concepts.
 - **Python**: Crafting web applications with Django and turning ideas into reality.
+- **HTML**: Best in HTML makes the best HTML website.
+- **CSS**: Design the front end in a very beautiful way.
+
 
 ## 💞️ Collaboration Interests
 I thrive on collaboration and am eager to team up on:
