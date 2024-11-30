@@ -1,14 +1,14 @@
 # 👋 Hello, World! I’m @Fsmjb
 
 ## 👀 About Me
-I'm a passionate computer science student on an exciting journey through the vast universe of programming! Currently, I’m diving deep into **C++** and **Python**, but my curiosity knows no bounds—I love exploring all realms of technology.
+I'm a passionate computer science student on an exciting journey through the vast programming universe! Currently, I’m diving deep into **C++** and **Python**, but my curiosity knows no bounds—I love exploring all realms of technology.
 
 ## 🌱 What I'm Learning
 - **C++**: Mastering the art of object-oriented programming and unleashing the power of advanced concepts.
 - **Python**: Crafting web applications with Django and turning ideas into reality.
 - **HTML**: Best in HTML makes the best HTML website.
-- **CSS**: Design the front end in a very beautiful way.
-
+- **CSS**: Wonderfully designed the front end.
+- **javascript**: know basic of javascript.
 
 ## 💞️ Collaboration Interests
 I thrive on collaboration and am eager to team up on:
