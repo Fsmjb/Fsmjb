@@ -25,6 +25,7 @@ I thrive on collaboration and am eager to team up on:
 
 ## ⚡ Fun Fact
 When I'm not lost in code, you'll find me solving intricate puzzles or exploring the latest tech trends. I’m also a gaming enthusiast—let’s connect over some epic gameplay or brain-bending algorithms!
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Fsmjb.Fsmjb)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fsmjb&show_icons=true&hide_title=true&count_private=true&theme=radical)
